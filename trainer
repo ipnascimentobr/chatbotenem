@@ -1,0 +1,78 @@
+[
+   'Qual é o objetivo do ENEM?', 'O objetivo do ENEM é avaliar o desempenho dos estudantes ao final da educação básica.',
+   'Qual a duração do ENEM?', 'O ENEM tem duração de dois dias, com provas aplicadas em dois domingos consecutivos.',
+   'Quais são as áreas avaliadas no ENEM?', 'As áreas avaliadas no ENEM são Ciências Humanas, Ciências da Natureza, Linguagens e Códigos, Matemática e Redação.',
+   'O que é o Sisu?', 'O Sisu é o Sistema de Seleção Unificada, que utiliza a nota do ENEM como critério de seleção para vagas em universidades públicas.',
+   'Qual a importância do ENEM?', 'O ENEM é importante porque é uma forma de ingresso em diversas universidades e também pode ser utilizado para obter bolsas de estudos e financiamentos estudantis.'
+   'Quais são as notas máximas e mínimas do ENEM?', 'A nota máxima do ENEM é 1000 pontos em cada área de conhecimento e na redação. Já a nota mínima é zero.',
+   'Qual é a data de inscrição para o ENEM?', 'A data de inscrição para o ENEM varia a cada ano e é divulgada pelo INEP, órgão responsável pela prova.',
+   'O que é a TRI?', 'A TRI (Teoria de Resposta ao Item) é o método utilizado para calcular a nota do ENEM, levando em consideração a dificuldade das questões acertadas pelo candidato.',
+   'Qual é o tempo máximo para realizar a prova do ENEM?', 'O tempo máximo para realizar a prova do ENEM é de 5 horas e 30 minutos.',
+   'O ENEM é obrigatório?', 'Não, o ENEM não é obrigatório. No entanto, a nota pode ser utilizada como forma de ingresso em universidades públicas e também para obtenção de bolsas de estudos e financiamentos estudantis.',
+   'Quando é divulgado o resultado do ENEM?', 'A data de divulgação do resultado do ENEM varia a cada ano e é divulgada pelo INEP.',
+   'O que é o PROUNI?', 'O PROUNI é o Programa Universidade para Todos, que oferece bolsas de estudos em universidades privadas para candidatos que tenham feito o ENEM e atendam aos critérios socioeconômicos do programa.',
+   'Como funciona a correção da redação do ENEM?', 'A correção da redação do ENEM é feita por dois avaliadores diferentes, que atribuem notas de 0 a 200 pontos em cinco critérios: domínio da escrita, compreensão da proposta, desenvolvimento do tema, argumentação e apresentação de solução.',
+   'O que é o FIES?', 'O FIES é o Fundo de Financiamento Estudantil, que oferece financiamento para estudantes que desejam cursar o ensino superior em instituições privadas.',
+   'O que é o Encceja?', 'O Encceja (Exame Nacional para Certificação de Competências de Jovens e Adultos) é uma prova realizada pelo INEP para certificação de conclusão do ensino fundamental e médio.',
+   'Como é a estrutura da prova de Matemática no ENEM?', 'A prova de Matemática no ENEM é composta por 45 questões, que abrangem conteúdos de álgebra, geometria, trigonometria, estatística e probabilidade.',
+   'O que é o Enade?', 'O Enade (Exame Nacional de Desempenho de Estudantes) é uma avaliação realizada pelo Ministério da Educação para medir o desempenho dos estudantes dos cursos de graduação em relação aos conteúdos programáticos, habilidades e competências.',
+   'O ENEM pode ser utilizado para obter certificado de conclusão do ensino médio?', 'Sim, é possível obter o certificado de conclusão do ensino médio através da nota do ENEM, desde que o candidato tenha alcançado a pontuação mínima exigida nas áreas de conhecimento e na redação',
+
+   'Como é calculada a nota do ENEM?',
+   'A nota do ENEM é calculada utilizando a Teoria de Resposta ao Item (TRI), que considera a dificuldade das questões e o desempenho do aluno.',
+
+   'Quando o ENEM foi criado?',
+   'O ENEM foi criado em 1998.',
+
+   'Quem pode fazer o ENEM?',
+   'Qualquer pessoa que tenha concluído o ensino médio ou que concluirá até o ano da aplicação das provas pode fazer o ENEM.',
+
+   'O que é a prova de redação do ENEM?',
+   'A prova de redação do ENEM consiste em escrever um texto dissertativo-argumentativo sobre um tema proposto pela organização da prova.',
+
+   'Quais são os critérios de correção da redação do ENEM?',
+   'Os critérios de correção da redação do ENEM incluem: adequação ao tema, compreensão e aplicação da proposta, estrutura do texto, argumentação, coesão e coerência.',
+
+   'O que é o FIES?',
+   'O FIES é o Fundo de Financiamento Estudantil, um programa do governo que financia os estudos de alunos em universidades particulares.',
+
+   'O que é o PROUNI?',
+   'O PROUNI é o Programa Universidade para Todos, um programa do governo que oferece bolsas de estudos em universidades particulares para alunos de baixa renda.',
+
+   'Quais são os tipos de questões do ENEM?',
+   'As questões do ENEM podem ser do tipo múltipla escolha ou do tipo questões discursivas.',
+
+   'Qual é a nota máxima do ENEM?',
+   'A nota máxima do ENEM é 1000 pontos em cada prova, totalizando 5000 pontos se consideradas todas as áreas do conhecimento.',
+
+   'O que é a TRI?',
+   'A Teoria de Resposta ao Item (TRI) é um método estatístico utilizado na correção do ENEM para levar em conta a dificuldade das questões e o desempenho do aluno.',
+
+   'O que é a CNEN?',
+   'A CNEN é a Comissão Nacional de Energia Nuclear, um órgão do governo brasileiro que regulamenta a utilização da energia nuclear no país.',
+
+   'Qual é a idade mínima para fazer o ENEM?',
+   'Não há idade mínima para fazer o ENEM, mas o aluno deve ter concluído o ensino médio ou estar concluindo no ano da aplicação das provas.',
+
+   'Quais são os critérios de desempate no ENEM?',
+   'Os critérios de desempate no ENEM são, respectivamente: a maior nota na redação, a maior nota na prova de linguagens, códigos e suas tecnologias, a maior nota na prova de matemática e suas tecnologias, a maior nota na prova de ciências da natureza e suas tecnologias, a maior nota na prova de ciências humanas e suas tecnologias.',
+
+   'O que é a TRI unidimensional?',
+   'A TRI unidimensional é um modelo da Teoria de Resposta ao Item (TRI) que considera apenas o nível de habilidade do aluno para',
+   'Justificativa de ausência no Enem 2022 e solicitação de isenção da taxa de inscrição para o Enem 2023',
+   'De 17 a 28/04/2023',
+   'Resultado da justificativa de ausência e solicitação de isenção da taxa de inscrição para o Enem 2023',
+   '08/05/2023',
+   'Recurso da justificativa de ausência e solicitação de isenção da taxa de inscrição para o Enem 2023',
+   '12/05/2023',
+   'Resultado do recurso da justificativa de ausência e solicitação de isenção da taxa de inscrição para o Enem 2023',
+   'dia 19/05/2023',
+   'Quando começa as inscrições',
+   'Início das inscrições16/06/2023',
+   'Pagamento da taxa de inscrição',
+   'O período de pagamento da taxa é do dia 5/6 a 21/6/2023',
+   'Aplicação da prova do Enem 2023','05 e 12/11/2023',
+   'Aplicação do Enem PPL 2023/Reaplicação','12 e 13/12/2023',
+   'Divulgação do Gabarito','24/11/2023',
+   'Resultados','16/01/2024',
+]
